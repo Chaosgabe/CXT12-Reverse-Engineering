@@ -1,4 +1,4 @@
-# CXT12-Reverse-Engineering
+# CXT12E3 Reverse Engineering
 
 Documentation page for the reengineering of a CXT12 macroboard from CXT
 
@@ -15,7 +15,7 @@ https://www.arduino.cc/en/uploads/Hacking/32U4PinMapping.png
 
 | Pin | Pin Name	| Mapped Pin Name |
 | --- | --- | --- |
-| 1	| PE6 | 
+| 1	| PE6 | Encoder 1 (Row 3)
 | 2	| UVcc	| 
 | 3	| D-	| 
 | 4	| D+	| 
@@ -24,8 +24,8 @@ https://www.arduino.cc/en/uploads/Hacking/32U4PinMapping.png
 | 7	| VUSB	| 
 | 8	| PB0	| 
 | 9	| PB1	| 
-| 10	| PB2	| 
-| 11	| PB3	| 
+| 10	| PB2	| Encoder 1 (Row 1)
+| 11	| PB3	| Encoder 2 (Row 1)
 | 12	| PB7	| 
 | 13	| RESET	| 
 | 14	| Vcc	| 
@@ -51,11 +51,11 @@ https://www.arduino.cc/en/uploads/Hacking/32U4PinMapping.png
 | 34	| Vcc1	| 
 | 35	| GND2	| 
 | 36	| PF7	| WS2812 
-| 37	| PF6	| 
-| 38	| PF5	| 
+| 37	| PF6	| Encoder 2 (Row 2)
+| 38	| PF5	| Encoder 1 (Row 2)
 | 39	| PF4	| Row 3
 | 40	| PF1	| 
-| 41	| PF0	| 
+| 41	| PF0	| Encoder 2 (Row 3)
 | 42	| AREF	| 
 | 43	| GND3	| 
 | 44	| AVCC1	| 
