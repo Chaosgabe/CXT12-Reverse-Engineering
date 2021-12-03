@@ -60,6 +60,7 @@ https://www.arduino.cc/en/uploads/Hacking/32U4PinMapping.png
 | 43	| GND3	| 
 | 44	| AVCC1	| 
 
+[LAYOUT]
 
 ![IMG_20211130_231350](https://user-images.githubusercontent.com/58740634/144137008-0ded2f77-87d8-4763-bddf-797103fd3eb2.jpg)
 
